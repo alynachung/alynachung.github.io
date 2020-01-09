@@ -1,7 +1,7 @@
 .version.light /* version checker */
 {
-	color: #00001F;
-	background-color: #F16868;
+	color: #000008;
+	background-color: #FB830C;
 }
 
 .html
@@ -101,7 +101,7 @@
 	height: 344px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/%e9%9d%88%e5%85%89%e8%bc%89%e9%ab%943.jpg") no-repeat left top;
+	background: transparent url("../images/9.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -113,7 +113,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 314px;
-	background: transparent url("../images/%e9%9d%88%e5%85%89%e8%bc%89%e9%ab%945.jpg") no-repeat left top;
+	background: transparent url("../images/11.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -141,7 +141,7 @@
 	height: 434px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/%e9%9d%88%e5%85%89%e8%bc%89%e9%ab%942.jpg") no-repeat left top;
+	background: transparent url("../images/8.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -153,7 +153,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 399px;
-	background: transparent url("../images/%e9%9d%88%e5%85%89%e8%bc%89%e9%ab%941.jpg") no-repeat left top;
+	background: transparent url("../images/7.jpg") no-repeat left top;
 	background-size: contain;
 }
 

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #B02049;
+	color: #0000F7;
+	background-color: #708123;
 }
 
 .html
@@ -110,7 +110,7 @@
 	margin-right: -10000px;
 	margin-top: 148px;
 	left: 120px;
-	background: transparent url("../images/%e5%bf%83%e9%9d%88%e6%a7%8b%e6%88%901.jpg") no-repeat left top;
+	background: transparent url("../images/5.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -145,7 +145,7 @@
 	margin-right: -10000px;
 	margin-top: 1271px;
 	left: 352px;
-	background: transparent url("../images/jpeg%20%e5%bd%b1%e5%83%8f-84568f7482d9-1.jpg") no-repeat left top;
+	background: transparent url("../images/12.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -161,7 +161,7 @@
 	margin-right: -10000px;
 	margin-top: -392px;
 	left: 476px;
-	background: transparent url("../images/jpeg%20%e5%bd%b1%e5%83%8f-b2f6117d37c2-1.jpg") no-repeat left top;
+	background: transparent url("../images/13.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -186,7 +186,7 @@
 	margin-right: -10000px;
 	margin-top: 67px;
 	left: 82px;
-	background: transparent url("../images/%e5%bf%83%e9%9d%88%e8%87%aa%e7%99%bd2.jpg") no-repeat left top;
+	background: transparent url("../images/4.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -198,7 +198,7 @@
 	margin-right: -10000px;
 	margin-top: 308px;
 	left: 288px;
-	background: transparent url("../images/%e8%a8%ad%e8%a8%88%e7%b9%aa%e7%95%ab7.jpg") no-repeat left top;
+	background: transparent url("../images/6.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -245,8 +245,8 @@
 	min-height: 50px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	-webkit-transform: matrix(0,-1,1,0,81,131);
 	-ms-transform: matrix(0,-1,1,0,81,131);
 	transform: matrix(0,-1,1,0,81,131);
@@ -264,7 +264,7 @@
 	margin-right: -10000px;
 	margin-top: 915px;
 	left: 146px;
-	background: transparent url("../images/%e5%a4%a7%e5%af%b6%e5%af%b61.jpg") no-repeat left top;
+	background: transparent url("../images/3.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -292,7 +292,7 @@
 	margin-right: -10000px;
 	margin-top: 1084px;
 	left: 760px;
-	background: transparent url("../images/%e9%9d%88%e5%85%89%e8%bc%89%e9%ab%942-u163-fr.jpg") no-repeat left top;
+	background: transparent url("../images/8-u163-fr.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -314,8 +314,8 @@
 	min-height: 50px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 26px;
 	line-height: 31px;
+	font-size: 26px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 289px;
@@ -331,7 +331,7 @@
 	margin-right: -10000px;
 	margin-top: 1829px;
 	left: 344px;
-	background: transparent url("../images/%e4%ba%ba%e9%ab%94%e8%88%9e%e5%8b%952.jpg") no-repeat left top;
+	background: transparent url("../images/1.jpg") no-repeat left top;
 	background-size: contain;
 }
 

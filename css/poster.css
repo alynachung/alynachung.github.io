@@ -1,7 +1,7 @@
 .version.poster /* version checker */
 {
-	color: #0000F1;
-	background-color: #07C904;
+	color: #000011;
+	background-color: #A3D0E1;
 }
 
 .html
@@ -87,7 +87,7 @@
 	height: 415px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/%e5%a4%a7%e4%ba%8c%e4%b8%8a%e4%b8%bb%e8%bb%b8%20%e4%b8%bb%e8%a6%96%e8%a6%ba2.jpg") no-repeat left top;
+	background: transparent url("../images/2.jpg") no-repeat left top;
 	background-size: contain;
 }
 
